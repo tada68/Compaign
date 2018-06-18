@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\android\.android\build-cache\dd40c697d412ea3f6fe8d90f80c75d34af383670\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f0304a7d1867ff5492a7faa1af01ae5985539a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\.android\build-cache\94b2dd0f285a9e277044e845dd48e6c44eae55f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a82bcbaa0b55bac5bda2d69871df00b911d2544f">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bc1ac4061d12a08109e64df219b71990156756e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_def9e499c6d6b0dd9c98e9db5ac67be969887b2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\.android\build-cache\20e1a72c4cb51ba8404f2eababd8cfcd883d1870\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_308b685d210da9bde96274d9c7713357bba3393a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\.android\build-cache\153d18ba62b4229e60656b5fe88538812058c427\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_74494655e3992f6a49be0f66c6332bda3aa06b36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\.android\build-cache\e7194bf398c2b9725d0af9522a0a752511eb2220\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_164db361448795f61eff31627faf0ab08f1b9e8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\.android\build-cache\00ea3c8d580b68a2a9cd3cfefd43b6e12567f9a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bdc985f2a48f402b5dc3565b37a1d56d9e013603\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\.android\build-cache\9160d0727c7991e442b944fd42c7cff7cbbb1f85\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c468a812e66b4602664754dd6248d543eacc7cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\汤圆儿\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_d10056275ed1294e7f76495f3b87ae562330efba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\android_apps-kinetic\Compaign\app\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a5eaab8cf6df442900185b4110a0916cdc0e27db">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_2f11e090cf371c385ed3e4a99e03b79eb7993593\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\.android\build-cache\a8d6606b97d102cae5e8ab2c578c3f4ec79115b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11f671ef140a145201886bf7d4e79ff1e73c1040\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\.android\build-cache\9a230a3feaeca49ffe8d54cf2f81433003a08743\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ccbe963151b20154ac7de09df749e9ed51fe92cc">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf7f62fbeac3f0fc3e536af8083cdb9fdedcd33d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\.android\build-cache\dc3a68984d11f38cae663d72036d8d84e5344847\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a87a748a3244d831ef398f1629b95a1f53a7d298\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\.android\build-cache\0318a782e1b7589fbd2d81b2af5b5c1c9441ae4e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_044ca51ced86ec647b5b91fac18a4f7495d8fabe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\.android\build-cache\8f56757bc8b885f007a1e53b22f68e23d3ed1b84\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d408e7e6e16a7414c1fba048928a7d33a6b1493d">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f34ba0060d1538137fe070bddc1b67124f0c4d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\.android\build-cache\9748784754873c83f74da12e91ea91baca9b2b17\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e006b8a9c4004c951b61c7fe6eff03ace3cd3214\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\android_apps-kinetic\Compaign\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="bb8aef59bcf11db71a988b453fdc443892f2b19a">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_266ff20bc9d21b93ff72a2f1ea3f862382ce08ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\.android\build-cache\576ead157ea7a0e311defc6f975ed3fda77d3f8b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97207475860e571be3e5ee579039cc52edf2fd9">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc5460dd1df837153d7aab88f14e98509f42e2d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\.android\build-cache\ac086792de99c0310d12f741406854956217cc3c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff56efcb0427ad60d7cfabe1a68c95b21a7810b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\.android\build-cache\38701a93da5e4ee457a36e452b279d24247e2ff8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72dc8a3bec4187f191d6e3a4cc1ae816e9d00d4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\.android\build-cache\df601f4f1db1d8f93326a4794c5e77a42d2c5d9b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1a7be19a1a6f2ba2297a5356334815b134e858c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\.android\build-cache\506bba0c76683e159ce9a0a2a16e246b5c76f485\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce2880fd7cdb14c9a2bc0fb1c66154a8b969248b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_7d6e0e3e765f0325b5e082533fbe356157cd7d55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\android_apps-kinetic\Compaign\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="G:\android_apps-kinetic\Compaign\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5a88598b53ab7b7909ce547a1376522da9bee862\classes.dex" />
+    </item>
+
+</items>

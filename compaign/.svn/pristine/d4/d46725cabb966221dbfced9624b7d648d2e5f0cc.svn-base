@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "G:\\android_apps-kinetic\\Compaign\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "G:\\android_apps-kinetic\\Compaign\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]

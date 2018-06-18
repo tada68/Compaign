@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="MultiChoicesCircleButton-1.0">
+    <CLASSES>
+      <root url="file://E:/android/.android/build-cache/94b2dd0f285a9e277044e845dd48e6c44eae55f6/output/res" />
+      <root url="jar://E:/android/.android/build-cache/94b2dd0f285a9e277044e845dd48e6c44eae55f6/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gjiazhe/MultiChoicesCircleButton/1.0/58650a48f51ffbff054f1c11eec9a3dd273b18b0/MultiChoicesCircleButton-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

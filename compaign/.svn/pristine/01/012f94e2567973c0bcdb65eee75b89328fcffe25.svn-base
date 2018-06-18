@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emergency.png",
+        "source": "G:\\android_apps-kinetic\\Compaign\\app\\src\\main\\res\\drawable\\ic_emergency.png"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "E:\\android\\.android\\build-cache\\9748784754873c83f74da12e91ea91baca9b2b17\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_call.xml",
+        "source": "G:\\android_apps-kinetic\\Compaign\\app\\src\\main\\res\\drawable\\btn_call.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\j_wheel_timebtn.xml",
+        "source": "E:\\android\\.android\\build-cache\\2f0339a7ef739d5c1f6058a13adc5ee807af999b\\output\\res\\drawable\\j_wheel_timebtn.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "E:\\android\\.android\\build-cache\\9748784754873c83f74da12e91ea91baca9b2b17\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_person.png",
+        "source": "G:\\android_apps-kinetic\\Compaign\\app\\src\\main\\res\\drawable\\ic_person.png"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\android\\.android\\build-cache\\9748784754873c83f74da12e91ea91baca9b2b17\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_help.png",
+        "source": "G:\\android_apps-kinetic\\Compaign\\app\\src\\main\\res\\drawable\\ic_help.png"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\time1.png",
+        "source": "G:\\android_apps-kinetic\\Compaign\\app\\src\\main\\res\\drawable\\time1.png"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_phone.png",
+        "source": "G:\\android_apps-kinetic\\Compaign\\app\\src\\main\\res\\drawable\\ic_phone.png"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_message.png",
+        "source": "G:\\android_apps-kinetic\\Compaign\\app\\src\\main\\res\\drawable\\ic_message.png"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\android\\.android\\build-cache\\9748784754873c83f74da12e91ea91baca9b2b17\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_corner.xml",
+        "source": "G:\\android_apps-kinetic\\Compaign\\app\\src\\main\\res\\drawable\\card_corner.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\little_message.png",
+        "source": "G:\\android_apps-kinetic\\Compaign\\app\\src\\main\\res\\drawable\\little_message.png"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\little_aim.png",
+        "source": "G:\\android_apps-kinetic\\Compaign\\app\\src\\main\\res\\drawable\\little_aim.png"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_defender.png",
+        "source": "G:\\android_apps-kinetic\\Compaign\\app\\src\\main\\res\\drawable\\ic_defender.png"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_enddefender.png",
+        "source": "G:\\android_apps-kinetic\\Compaign\\app\\src\\main\\res\\drawable\\ic_enddefender.png"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\locate_icon.png",
+        "source": "G:\\android_apps-kinetic\\Compaign\\app\\src\\main\\res\\drawable\\locate_icon.png"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linearlayout.xml",
+        "source": "G:\\android_apps-kinetic\\Compaign\\app\\src\\main\\res\\drawable\\linearlayout.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pickerview_btn.xml",
+        "source": "E:\\android\\.android\\build-cache\\576ead157ea7a0e311defc6f975ed3fda77d3f8b\\output\\res\\drawable\\selector_pickerview_btn.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_start.png",
+        "source": "G:\\android_apps-kinetic\\Compaign\\app\\src\\main\\res\\drawable\\ic_start.png"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "E:\\android\\.android\\build-cache\\9748784754873c83f74da12e91ea91baca9b2b17\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_close.png",
+        "source": "G:\\android_apps-kinetic\\Compaign\\app\\src\\main\\res\\drawable\\ic_close.png"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_camera.png",
+        "source": "G:\\android_apps-kinetic\\Compaign\\app\\src\\main\\res\\drawable\\ic_camera.png"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\little_phone.png",
+        "source": "G:\\android_apps-kinetic\\Compaign\\app\\src\\main\\res\\drawable\\little_phone.png"
+    }
+]

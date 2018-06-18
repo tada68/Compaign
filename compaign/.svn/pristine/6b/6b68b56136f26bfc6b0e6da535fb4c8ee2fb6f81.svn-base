@@ -1,0 +1,33 @@
+// Generated code from Butter Knife. Do not modify!
+package com.example.compaign;
+
+import android.view.View;
+import butterknife.ButterKnife.Finder;
+import butterknife.ButterKnife.ViewBinder;
+
+public class MainFragment$$ViewBinder<T extends com.example.compaign.MainFragment> implements ViewBinder<T> {
+  @Override public void bind(final Finder finder, final T target, Object source) {
+    View view;
+    view = finder.findRequiredView(source, 2131558560, "field 'mapView'");
+    target.mapView = finder.castView(view, 2131558560, "field 'mapView'");
+    view = finder.findRequiredView(source, 2131558562, "field 'call'");
+    target.call = finder.castView(view, 2131558562, "field 'call'");
+    view = finder.findRequiredView(source, 2131558563, "field 'message'");
+    target.message = finder.castView(view, 2131558563, "field 'message'");
+    view = finder.findRequiredView(source, 2131558565, "field 'photo'");
+    target.photo = finder.castView(view, 2131558565, "field 'photo'");
+    view = finder.findRequiredView(source, 2131558564, "field 'emergency'");
+    target.emergency = finder.castView(view, 2131558564, "field 'emergency'");
+    view = finder.findRequiredView(source, 2131558561, "field 'time'");
+    target.time = finder.castView(view, 2131558561, "field 'time'");
+  }
+
+  @Override public void unbind(T target) {
+    target.mapView = null;
+    target.call = null;
+    target.message = null;
+    target.photo = null;
+    target.emergency = null;
+    target.time = null;
+  }
+}

@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\j_anim_exit_bottom.xml",
+        "source": "E:\\android\\.android\\build-cache\\2f0339a7ef739d5c1f6058a13adc5ee807af999b\\output\\res\\anim\\j_anim_exit_bottom.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "E:\\android\\.android\\build-cache\\9748784754873c83f74da12e91ea91baca9b2b17\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pickerview_slide_out_bottom.xml",
+        "source": "E:\\android\\.android\\build-cache\\576ead157ea7a0e311defc6f975ed3fda77d3f8b\\output\\res\\anim\\pickerview_slide_out_bottom.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "E:\\android\\.android\\build-cache\\9748784754873c83f74da12e91ea91baca9b2b17\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "E:\\android\\.android\\build-cache\\9748784754873c83f74da12e91ea91baca9b2b17\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "E:\\android\\.android\\build-cache\\9748784754873c83f74da12e91ea91baca9b2b17\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\j_anim_enter_bottom.xml",
+        "source": "E:\\android\\.android\\build-cache\\2f0339a7ef739d5c1f6058a13adc5ee807af999b\\output\\res\\anim\\j_anim_enter_bottom.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pickerview_dialog_scale_in.xml",
+        "source": "E:\\android\\.android\\build-cache\\576ead157ea7a0e311defc6f975ed3fda77d3f8b\\output\\res\\anim\\pickerview_dialog_scale_in.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pickerview_dialog_scale_out.xml",
+        "source": "E:\\android\\.android\\build-cache\\576ead157ea7a0e311defc6f975ed3fda77d3f8b\\output\\res\\anim\\pickerview_dialog_scale_out.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "E:\\android\\.android\\build-cache\\9748784754873c83f74da12e91ea91baca9b2b17\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "E:\\android\\.android\\build-cache\\9748784754873c83f74da12e91ea91baca9b2b17\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pickerview_slide_in_bottom.xml",
+        "source": "E:\\android\\.android\\build-cache\\576ead157ea7a0e311defc6f975ed3fda77d3f8b\\output\\res\\anim\\pickerview_slide_in_bottom.xml"
+    },
+    {
+        "merged": "G:\\android_apps-kinetic\\Compaign\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\android\\.android\\build-cache\\506bba0c76683e159ce9a0a2a16e246b5c76f485\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]
